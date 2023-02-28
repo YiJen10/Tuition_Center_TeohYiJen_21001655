@@ -1,6 +1,4 @@
-import java.util.Scanner;
 public class StudentBatch {
-    Scanner in = new Scanner(System.in);
     private int index = 0;
     public Student[] students;
     public StudentBatch(){

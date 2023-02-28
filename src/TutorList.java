@@ -1,6 +1,5 @@
 public class TutorList {
     private int index = 0;
-    public int tutor_assigned;
     public Tutor[] tutors;
     public TutorList(){
         tutors = new Tutor[0];
