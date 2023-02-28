@@ -94,6 +94,8 @@ public class Student {
             System.out.println("Marks at index "+(i)+" is "+marks[i]);
         }
     }
+
+    // ONLY FOR DEBUGGING
     public static void main(String[] args){
         Student stud0 = new Student();
         try {
