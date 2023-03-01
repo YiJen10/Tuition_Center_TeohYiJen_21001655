@@ -7,7 +7,6 @@ public class Student {
     public Address address_stu;
     public Tutor tutor_assigned;
     protected String ic;
-    protected String address;
     protected String school_name;
     protected String tutor_name;
     private final float[] marks = new float[5];
